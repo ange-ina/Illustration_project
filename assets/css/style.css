@@ -1,0 +1,197 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Merriweather+Sans&display=swap');
+
+html{
+    scroll-behavior: smooth;
+}    
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+nav{
+    text-align: right;
+}
+li{
+    display: inline;
+    text-transform: uppercase;
+    list-style: none;
+    color:#202020;
+    padding-right: 10px;
+
+}
+.illustration1{
+    height: 70vh;
+    background:url(https://media.giphy.com/media/J5YSj3lPCWjE6tbu0b/giphy.gif) right/contain no-repeat;
+
+}
+
+.illustration2{
+    height: 70vh;
+    background: url(../img/illustration2.png) left/contain no-repeat;
+    padding-left: 40%;
+}
+.illustration3{
+    height: 70vh;
+    background:url(../img/illustration3.png) right/contain no-repeat;
+}
+.heading1,.heading2,.heading3{
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 3em;
+    padding-top: 10%;
+    text-align: center;
+}
+.paragraph{
+    font-size: 1.5em;
+    margin-left: 10%;
+    color: #666;
+    text-indent: 50px;
+    text-align: center;
+    
+}
+img{
+    width: 400px; 
+}
+article{
+    padding:10px 0
+}
+article img{
+    width: 40%;
+    margin-right: 6%;
+}
+.bild{
+    margin-left: 7%;
+}
+.header1, .header3{
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 3em;
+    margin-left: 10%;
+    padding-top: 10%;
+}
+.text1, .text3{
+    font-size: 1.5em;
+    margin-left: 10%;
+    color: #666;
+
+}
+.button1{
+    background-color: #202020;
+    color: white;
+    padding: 20px;
+    letter-spacing: 1px;
+    border-radius: 5px;
+    margin-left: 10%;
+}
+.button2{
+    padding: 20px;
+    letter-spacing: 1px;
+    border-radius: 5px;
+}
+.header2{
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 3em;
+    margin-left: 10%;
+    padding-top: 20%;
+}
+.text2{
+    font-size: 1.5em;
+    margin-left: 10%;
+    color: #666;
+}
+.bilder{
+    width: 25%;
+    padding-right: 5%;
+    padding-top: 20px;
+}
+.img4{
+    margin-left: 7.5%;
+}
+.paragraph2,.paragraph3{
+    font-size: 1.5em;
+    margin-left: 10%;
+    color: #666;
+    text-align: center;
+    
+}
+#id{
+    width:60%;
+}
+.img1,.img3,.img5{
+    margin-left: 20%;
+    padding-right: 10%;
+    padding-top: 10%;
+}
+.list{
+    background-color:#F5FBFE;
+    width: 20%;
+    height: 20%;
+    text-align: center;
+    margin-left: 40%;
+    border-radius: 5px;
+}
+.prise{
+    font-size: 3em;
+}
+.year{
+    color:#666
+}
+.list1{
+    font-size: 1rem;
+}
+.button3{
+    background-color:#24bff2;
+    color: white;
+    padding: 10px;
+    letter-spacing: 1px;
+    border-radius: 5px;
+    border:none;
+    margin-bottom: 20px;
+}
+footer h1{
+    font-size: 3em;
+    text-align: center;
+}
+.socialm{
+    text-align: center;
+}
+.email{
+    font-size: 1rem;
+    color: #666;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.email1{
+    text-align: center;
+    font-size: 1em;
+}
+.follow{
+    font-size: 1rem;
+    color: #666;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin:5px 2px;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+
+   
